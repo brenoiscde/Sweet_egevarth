@@ -13,6 +13,12 @@
     max-width: 350px;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
+
+    p{
+    font-size: 16px;
+    color: var(--cor-texto);
+}
+
 }
 .sabor:hover{
     border: 1px solid #DC9242;
@@ -36,9 +42,7 @@
     font-size: 16px;
     font-weight: 600;
 }
-p{
-    font-size: 16px;
-}
+
 
 .title_sabores{
     color:#64331B;

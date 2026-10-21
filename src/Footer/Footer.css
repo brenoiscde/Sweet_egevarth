@@ -1,0 +1,16 @@
+footer{
+    display: flex;
+    align-items: center;
+    padding: 40px 20px;
+    justify-content: center;
+    background-color: var(--cor-texto);
+}
+p{
+    color:#FCF4E6;
+}
+
+@media (max-width: 1024px) {
+    p{
+        font-size: 14px;
+    }
+}
