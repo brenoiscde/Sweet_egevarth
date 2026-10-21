@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+:root{
+  --cor-background: rgba(255, 255, 255);
+  --cor-texto: #64331B;
+  --cor-paragrafo: #7B5B49;
+  --fonte-texto:"Caprasimo", serif;
+  --cor-borda: #F2DABA;
+}
+*{
+  margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--cor-background);
+}

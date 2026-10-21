@@ -1,0 +1,54 @@
+.sabadores_and_valores{
+    margin: 5rem 20rem;
+}
+@media (max-width: 1024px) {
+    .sabadores_and_valores{
+        margin: 5rem 2rem;
+    }
+}
+.sabor{
+    border: 1px solid var(--cor-borda);
+    border-radius: 16px;
+    padding: 15px 30px;
+    max-width: 350px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.sabor:hover{
+    border: 1px solid #DC9242;
+    transform: scale(1.05);
+}
+
+.title{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+   h2{
+    font-family: arial, sans-serif;
+   }
+}
+.preco{
+    background-color: var(--cor-borda);
+    border-radius: 18px;
+    padding: 5px 15px;
+    font-size: 16px;
+    font-weight: 600;
+}
+p{
+    font-size: 16px;
+}
+
+.title_sabores{
+    color:#64331B;
+    font-family: var(--fonte-texto);
+    font-weight: 400;
+    font-size: 24px;
+    margin-bottom: 20px;
+
+}
+.list_sabores{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}

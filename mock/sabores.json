@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "nome": "Tradicional",
+    "descricao": "Massa amanteigada com gotas de chocolate ao leite.",
+    "imagem": "",
+    "preco": 5.00
+},
+{
+    "id": 2,
+    "nome": "Chocolate Duplo",
+    "descricao": "Massa de cacau com pedaços de chocolate meio amargo.",
+    "imagem": "",
+    "preco": 9.00
+},
+{
+    "id": 3,
+    "nome": "Red Velvet",
+    "descricao": "Massa aveludada com gotas de chocolate branco.",
+    "imagem": "",
+    "preco": 10.00
+},
+{
+    "id": 4,
+    "nome": "Nutella",
+    "descricao": "Recheado com Nutella cremosa por dentro.",
+    "imagem": "",
+    "preco": 12.00
+},
+{
+    "id": 5,
+    "nome": "Aveia & Mel",
+    "descricao": "Crocante por fora, macio por dentro, com toque de canela.",
+    "imagem": "",
+    "preco": 8.00
+},
+{
+    "id": 6,
+    "nome": "Pistache",
+    "descricao": "Massa clara com pistache e chocolate branco.",
+    "imagem": "",
+    "preco": 13.00
+}
+]
