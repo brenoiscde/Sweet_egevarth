@@ -25,7 +25,8 @@
    justify-content: space-between;
 
    h2{
-    font-family: arial, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#3D2013;
    }
 }
 .preco{
