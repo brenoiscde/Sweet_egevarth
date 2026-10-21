@@ -1,5 +1,9 @@
 .sabadores_and_valores{
     margin: 5rem 20rem;
+
+    p{
+        color:#914f30;
+    }
 }
 @media (max-width: 1024px) {
     .sabadores_and_valores{
@@ -10,13 +14,14 @@
     border: 1px solid var(--cor-borda);
     border-radius: 16px;
     padding: 15px 30px;
-    max-width: 350px;
+    max-width: 375px;
     cursor: pointer;
+    margin-bottom: 20px;
     transition: all 0.3s ease-in-out;
 
     p{
     font-size: 16px;
-    color: var(--cor-texto);
+    color: #914f30;
 }
 
 }
@@ -28,6 +33,7 @@
 .title{
    display: flex;
    align-items: center;
+   
    justify-content: space-between;
 
    h2{

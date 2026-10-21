@@ -15,6 +15,7 @@ function Main(){
                     </div>
                 ))}
             </div>
+            <p>Preço por unidade. Consulte disponibilidade dos sabores.</p>
         </div>
     )
 

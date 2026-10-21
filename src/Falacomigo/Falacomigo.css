@@ -1,0 +1,21 @@
+.falecomigo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 42px;
+    margin: 20px 20rem;
+    border: 1px solid var(--cor-borda);
+    border-radius: 16px;
+}
+.falecomigo h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: var(--cor-texto);
+    font-weight: 800;
+    font-size: 32px;
+}
+.falecomigo p{
+    color: #914f30;
+    flex-wrap: wrap;
+    font-size: 18px;
+}
