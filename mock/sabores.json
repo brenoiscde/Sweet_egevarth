@@ -2,7 +2,7 @@
     "id": 1,
     "nome": "Tradicional",
     "descricao": "Massa amanteigada com gotas de chocolate ao leite.",
-    "imagem": "../../public/cokie.trad.jpg",
+    "imagem": "/cokie.trad.jpg",
     "preco": 5.00
 },
 {
