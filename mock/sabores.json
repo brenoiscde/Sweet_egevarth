@@ -9,35 +9,35 @@
     "id": 2,
     "nome": "Chocolate Duplo",
     "descricao": "Massa de cacau com pedaços de chocolate meio amargo.",
-    "imagem": "../../public/cookie.duplo.jpg",
+    "imagem": "./cookie.duplo.jpg",
     "preco": 9.00
 },
 {
     "id": 3,
     "nome": "Red Velvet",
     "descricao": "Massa aveludada com gotas de chocolate branco.",
-    "imagem": "../../public/cookie.teste.jpg",
+    "imagem": "./cookie.teste.jpg",
     "preco": 10.00
 },
 {
     "id": 4,
     "nome": "Nutella",
     "descricao": "Recheado com Nutella cremosa por dentro.",
-    "imagem": "../../public/cookie.nutela.jpg",
+    "imagem": "./cookie.nutela.jpg",
     "preco": 12.00
 },
 {
     "id": 5,
     "nome": "Aveia & Mel",
     "descricao": "Crocante por fora, macio por dentro, com toque de canela.",
-    "imagem": "../../public/cookie.aveiamel.jpg",
+    "imagem": "./cookie.aveiamel.jpg",
     "preco": 8.00
 },
 {
     "id": 6,
     "nome": "Pistache",
     "descricao": "Massa clara com pistache e chocolate branco.",
-    "imagem": "../../public/cookie.pistache.jpg",
+    "imagem": "./cookie.pistache.jpg",
     "preco": 13.00
 }
 ]
