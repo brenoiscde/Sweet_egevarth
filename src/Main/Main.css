@@ -63,3 +63,65 @@
     flex-wrap: wrap;
     gap: 20px;
 }
+
+.imagem-sabor {
+    overflow: hidden;
+    transform-origin: top;
+}
+
+.imagem-sabor.entrando {
+    animation: entrar 300ms ease forwards;
+}
+
+.imagem-sabor.saindo {
+    animation: sair 300ms ease forwards;
+}
+
+.imagem-sabor img {
+    display: block;
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+@keyframes entrar {
+    from {
+        opacity: 0;
+        transform: translateY(-15px) scaleY(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scaleY(1);
+    }
+}
+
+@keyframes sair {
+    from {
+        opacity: 1;
+        transform: translateY(0) scaleY(1);
+    }
+
+    to {
+        opacity: 0;
+        transform: translateY(-15px) scaleY(0.9);
+    }
+}
+
+.imagem-sabor {
+    margin: 12px 0 20px;
+    overflow: hidden;
+    transform-origin: top;
+}
+
+.imagem-sabor img {
+    display: block;
+    width: 100%;
+    max-width: 350px;
+    height: 220px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 12px;
+}

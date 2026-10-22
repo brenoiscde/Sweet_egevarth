@@ -71,7 +71,7 @@
         align-items: center;
     }
     .whats, .instagram{
-        width: 250px;
+        width: 200px;
         justify-content: center;
     }
 }
