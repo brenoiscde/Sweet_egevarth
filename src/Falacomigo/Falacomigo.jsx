@@ -5,11 +5,11 @@ function Falacomigo() {
             <h2>Fale comigo</h2>
             <p>Peça pelo WhatsApp ou acompanhe as novidades e os sabores novos no Instagram</p>
             <div className="redessociais">
-                <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer">
-                    <img src="/path/to/whatsapp-icon.png" alt="WhatsApp" />
+                <a className="whats" href="https://wa.me/5527997830578" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/whatsapp.svg" alt="WhatsApp" />WhatsApp
                 </a>
-                <a href="https://www.instagram.com/seu_perfil" target="_blank" rel="noopener noreferrer">
-                    <img src="/path/to/instagram-icon.png" alt="Instagram" />
+                <a className="instagram" href="https://www.instagram.com/breno_sp7" target="_blank" rel="noopener noreferrer">
+                    <img src="./assets/instagram.svg" alt="Instagram" />Instagram
                 </a>
             </div>
         </div>
