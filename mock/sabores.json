@@ -9,7 +9,7 @@
     "id": 2,
     "nome": "Chocolate Duplo",
     "descricao": "Massa de cacau com pedaços de chocolate meio amargo.",
-    "imagem": "./foto_roberto.jpg",
+    "imagem": "./foto_roberto.jpeg",
     "preco": 9.00
 },
 {
